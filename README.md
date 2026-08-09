@@ -70,3 +70,12 @@ This repository is maintained as:
 ---
 
 code to generate fake Safe Entry Passes (ARCHIVED - DO NOT USE).
+
+
+## Setup
+
+Install the dependencies for the detected stack and run the existing entry point from the repository source tree.
+
+## License
+
+Apache-2.0. See [LICENSE](LICENSE) and [NOTICE](NOTICE).
