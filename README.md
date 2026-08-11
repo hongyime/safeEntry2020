@@ -1,5 +1,10 @@
 # Safe Entry
 
+Live demo: https://hongyime.github.io/safeEntry2020/
+
+![Project screenshot](./screenshot.png)
+
+
 # ⚠️ CRITICAL WARNING - ILLEGAL DOCUMENT FORGERY ⚠️
 
 **THIS CODE GENERATES FAKE COVID-19 SAFE ENTRY PASSES**
